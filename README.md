@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/menabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menabil" height="30" width="40" /></a>
 <a href="https://fb.com/menabil.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menabil.dev" height="30" width="40" /></a>
 <a href="https://www.behance.net/menabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="menabil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@unick-hp6237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@unick-hp6237" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/unick-hp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unick-hp" height="30" width="40" /></a>
 <a href="https://discord.gg/me.nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="me.nabil" height="30" width="40" /></a>
 </p>
 
