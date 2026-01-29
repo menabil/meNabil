@@ -43,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menabil&" alt="menabil" /></p>
 
-
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=menabil&](https://nirzak-streak-stats.vercel.app/?user=menabil&theme=dark&hide_border=false)" alt="menabil" /></p>
 
 <h3 align="center">GitHub Stats</h3>
 
