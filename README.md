@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menabil&show_icons=true&locale=en" alt="menabil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menabil&" alt="menabil" /></p>
+
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=menabil](https://github.com/meNabil/meNabil/blob/main/README.md#-github-stats)" alt="menabil" /></p>
+
