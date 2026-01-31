@@ -26,37 +26,37 @@ I am a creative developer who loves building polished user interfaces. Currently
 
 ### 🛠️ Tech Stack :
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend/DB** | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodes.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| Category       | Tools & Languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Frontend**   | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend/DB** | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodes.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)                                                                                                                                                                                                             |
+| **Design**     | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)                                                                                                                                                                                                      |
 
 ---
 
 ### 📊 GitHub Activity :
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" align="center" /> &nbsp &nbsp
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" />
+</p>
+<!-- <p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" />
+</p> -->
+
+<!-- <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=menabil&theme=tokyonight" width="100%" />
+</p> -->
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=menabil&theme=tokyonight&hide_border=false" />
-      </td>
-    </tr>
-  </table>
+  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=menabil&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
 
 ### 🌐 Connect with me :
+
 <p align="left">
   <a href="https://linkedin.com/in/menabil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://fb.com/menabil.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
