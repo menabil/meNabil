@@ -69,5 +69,5 @@ I am a creative developer who loves building polished user interfaces. Currently
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=menabil&icon=5&color=0" alt="visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=menabil" alt="visitor count" />
 </div>
