@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=menabil&label=Profile%20views&color=0e75b6&style=flat-square" alt="menabil" />
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained" />
-    <a href="https://twitter.com/menabil"><img src="https://img.shields.io/twitter/follow/menabil?style=social" alt="twitter" /></a>
+    <a href="https://twitter.com/menabil" target="_blank"><img src="https://img.shields.io/twitter/follow/menabil?style=social" alt="twitter" /></a>
   </p>
 </div>
 
