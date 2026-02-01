@@ -50,7 +50,7 @@ I am a creative developer who loves building polished user interfaces. Currently
 </p> -->
 
 <div align="center">
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=menabil&theme=tokyonight&hide_border=false" />
+  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=menabil&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
