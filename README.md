@@ -14,9 +14,9 @@
 
 ### 📖 About Me :
 
-I am a creative developer who loves building polished user interfaces. Currently, I'm deep-diving into the React ecosystem and working on my project **FamilyMan**.
+I am a creative developer who loves building polished user interfaces. Currently, I'm deep-diving into the React ecosystem and working on my project **Orebi**.
 
-- 🔭 **Current Project:** Working on [FamilyMan](https://github.com/menabil)
+- 🔭 **Current Project:** Working on [Orebi](https://github.com/menabil/Orebi)
 - 🌱 **Learning Path:** Mastering **React.js** & **Redux**
 - 🤝 **Collaboration:** Open for **E-commerce** & **React** projects
 - 💬 **Expertise:** HTML, CSS, JS, Bootstrap, Tailwind
