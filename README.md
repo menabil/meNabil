@@ -38,7 +38,7 @@ I am a creative developer who loves building polished user interfaces. Currently
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" align="center" /> &nbsp &nbsp
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" />
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" />
