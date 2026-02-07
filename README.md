@@ -38,7 +38,7 @@ I am a creative developer who loves building polished user interfaces. Currently
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" align="center" /> &nbsp &nbsp
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" width="50%" />
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" />
@@ -67,7 +67,14 @@ I am a creative developer who loves building polished user interfaces. Currently
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=menabil&theme=react-dark" alt="menabil Activity Graph" />
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sijan666&theme=radical" alt="GitHub Profile Summary" /> -->
+  </a>
+</div>
+
+<div align="center">
+ 
   <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=menabil" alt="visitor count" />
 </div>
