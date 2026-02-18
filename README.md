@@ -19,7 +19,7 @@ I am a creative developer who loves building polished user interfaces. Currently
 - 🔭 **Current Project:** Working on [Orebi](https://github.com/menabil/Orebi)
 - 🌱 **Learning Path:** Mastering **React.js** & **Redux**
 - 🤝 **Collaboration:** Open for **E-commerce** & **React** projects
-- 💬 **Expertise:** HTML, CSS, JS, Bootstrap, Tailwind
+- 💬 **Expertise:** HTML, CSS, JS, Bootstrap, Tailwind, JavaScript, ReactJS , NextJS
 - ⚡ **Fun Fact:** I think, therefore I code (mostly).
 
 ---
