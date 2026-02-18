@@ -20,7 +20,7 @@ I am a creative developer who loves building polished user interfaces. Currently
 - 🌱 **Learning Path:** Mastering **React.js** & **Redux**
 - 🤝 **Collaboration:** Open for **E-commerce** & **React** projects
 - 💬 **Expertise:** HTML, CSS, JS, Bootstrap, Tailwind, JavaScript, ReactJS , NextJS
-- ⚡ **Fun Fact:** while(alive) { code(); }.
+- ⚡ **Fun Fact:** while(alive) { code(); };
 
 ---
 
