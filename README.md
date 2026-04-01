@@ -1,12 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Nabil%20Muntasir&fontSize=70&animation=fadeIn&fontColor=ffffff" />
   
-  <h3>🚀 Passionate Frontend Developer from Bangladesh</h3>
+  <h3>Passionate Frontend Developer from Bangladesh</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=menabil&label=Profile%20views&color=0e75b6&style=flat-square" alt="menabil" />
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained" />
-    <a href="https://twitter.com/menabil" target="_blank"><img src="https://img.shields.io/twitter/follow/menabil?style=social" alt="twitter" /></a>
+   <a href="https://www.linkedin.com/in/menabil/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   </p>
 </div>
 
@@ -14,10 +16,10 @@
 
 ### 📖 About Me :
 
-I am a creative developer who loves building polished user interfaces. Currently, I'm deep-diving into the React ecosystem and working on my project **Orebi**.
+I am a creative developer who loves building polished user interfaces. Currently, I'm deep-diving into the React ecosystem and working on my project **CreativeWeb**.
 
-- 🔭 **Current Project:** Working on [Orebi](https://github.com/menabil/Orebi)
-- 🌱 **Learning Path:** Mastering **React.js** & **Redux**
+- 🔭 **Current Project:** Working on [CreativeWeb](https://github.com/menabil/creativeWeb)
+- 🌱 **Learning Path:** Mastering **React.js** & **Zustand**
 - 🤝 **Collaboration:** Open for **E-commerce** & **React** projects
 - 💬 **Expertise:** HTML, CSS, JS, Bootstrap, Tailwind, JavaScript, ReactJS , NextJS
 - ⚡ **Fun Fact:** while(alive) { code(); };
@@ -40,20 +42,13 @@ I am a creative developer who loves building polished user interfaces. Currently
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" align="center" /> &nbsp &nbsp
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" align="center" />
 </p>
-<!-- <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=menabil&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menabil&layout=compact&theme=tokyonight" height="170" />
-</p> -->
-
-<!-- <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=menabil&theme=tokyonight" width="100%" />
-</p> -->
-
-<div align="center">
+<!-- <div align="center">
   <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=menabil&theme=tokyonight&hide_border=false" />
+</div> -->
+ <div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=menabil&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
-
----
+<!-- --- -->
 
 ### 🌐 Connect with me :
 
